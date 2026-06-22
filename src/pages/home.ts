@@ -238,7 +238,7 @@ ${getNav('/')}
 
       <div class="story-card reveal reveal-delay-2">
         <div class="story-img">
-          <img src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=600&q=80&auto=format&fit=crop" alt="Member story" loading="lazy" />
+          <img src="https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=600&q=80&auto=format&fit=crop" alt="Member story" loading="lazy" />
           <div class="story-img-overlay"></div>
         </div>
         <div class="story-body">
@@ -256,7 +256,7 @@ ${getNav('/')}
 
       <div class="story-card reveal reveal-delay-3">
         <div class="story-img">
-          <img src="https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?w=600&q=80&auto=format&fit=crop" alt="Member story" loading="lazy" />
+          <img src="https://images.unsplash.com/photo-1599058917765-a780eda07a3e?w=600&q=80&auto=format&fit=crop" alt="Member story" loading="lazy" />
           <div class="story-img-overlay"></div>
         </div>
         <div class="story-body">

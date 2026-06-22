@@ -85,7 +85,7 @@ ${getNav('/what-we-offer')}
     <div class="pillar-detail reverse reveal">
       <div class="pillar-detail-img">
         <img
-          src="https://images.unsplash.com/photo-1593079831268-3381b0db4a77?w=800&q=80&auto=format&fit=crop"
+          src="https://images.unsplash.com/photo-1584466977773-e625c37cdd50?w=800&q=80&auto=format&fit=crop"
           alt="Free supplements"
           loading="lazy"
         />
