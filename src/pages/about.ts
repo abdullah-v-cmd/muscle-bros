@@ -41,14 +41,14 @@ ${getNav('/about')}
       <div class="about-img-stack reveal reveal-delay-1">
         <div class="about-img-main">
           <img
-            src="https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=700&q=80&auto=format&fit=crop"
+            src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?w=700&q=80&auto=format&fit=crop"
             alt="Young man training"
             loading="lazy"
           />
         </div>
         <div class="about-img-accent">
           <img
-            src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=500&q=80&auto=format&fit=crop"
+            src="https://images.unsplash.com/photo-1581009137042-c552e485697a?w=500&q=80&auto=format&fit=crop"
             alt="Training session"
             loading="lazy"
           />

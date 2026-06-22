@@ -57,7 +57,7 @@ ${getNav('/what-we-offer')}
     <div class="pillar-detail reveal">
       <div class="pillar-detail-img">
         <img
-          src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80&auto=format&fit=crop"
+          src="https://images.unsplash.com/photo-1549476464-37392f717541?w=800&q=80&auto=format&fit=crop"
           alt="Free gym membership"
           loading="lazy"
         />
@@ -85,7 +85,7 @@ ${getNav('/what-we-offer')}
     <div class="pillar-detail reverse reveal">
       <div class="pillar-detail-img">
         <img
-          src="https://images.unsplash.com/photo-1584735422914-4e14cd4f9fa8?w=800&q=80&auto=format&fit=crop"
+          src="https://images.unsplash.com/photo-1593079831268-3381b0db4a77?w=800&q=80&auto=format&fit=crop"
           alt="Free supplements"
           loading="lazy"
         />
@@ -113,7 +113,7 @@ ${getNav('/what-we-offer')}
     <div class="pillar-detail reveal">
       <div class="pillar-detail-img">
         <img
-          src="https://images.unsplash.com/photo-1491555103944-7c647fd857e6?w=800&q=80&auto=format&fit=crop"
+          src="https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=800&q=80&auto=format&fit=crop"
           alt="Mentorship programme"
           loading="lazy"
         />
